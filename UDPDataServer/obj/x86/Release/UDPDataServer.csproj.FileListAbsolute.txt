@@ -1,0 +1,11 @@
+D:\Escopusa\main.escopusa\UDPDataServer\bin\Release\UDPDataServer.exe
+D:\Escopusa\main.escopusa\UDPDataServer\bin\Release\UDPDataServer.pdb
+D:\Escopusa\main.escopusa\UDPDataServer\obj\x86\Release\UDPDataServer.frmUDPDataServer.resources
+D:\Escopusa\main.escopusa\UDPDataServer\obj\x86\Release\UDPDataServer.frmUDPReceive.resources
+D:\Escopusa\main.escopusa\UDPDataServer\obj\x86\Release\UDPDataServer.frmUDPSendMessage.resources
+D:\Escopusa\main.escopusa\UDPDataServer\obj\x86\Release\UDPDataServer.frmUDPStations.resources
+D:\Escopusa\main.escopusa\UDPDataServer\obj\x86\Release\UDPDataServer.Properties.Resources.resources
+D:\Escopusa\main.escopusa\UDPDataServer\obj\x86\Release\System.Threading.ThreadTool.resources
+D:\Escopusa\main.escopusa\UDPDataServer\obj\x86\Release\UDPDataServer.exe
+D:\Escopusa\main.escopusa\UDPDataServer\obj\x86\Release\UDPDataServer.pdb
+D:\Escopusa\main.escopusa\UDPDataServer\obj\x86\Release\UDPDataServer.csproj.GenerateResource.Cache
